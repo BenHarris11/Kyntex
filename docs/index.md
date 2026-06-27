@@ -34,7 +34,7 @@ The current embedded prototype uses:
 - piezo/tapper excitation
 - Python validation pipeline
 
-[View the technical repository](https://github.com/YOUR_USERNAME/kyntex-tendon-stiffness-monitor)
+[View the technical repository](https://github.com/BenHarris11/Kyntex-Technical)
 
 ## Status
 
